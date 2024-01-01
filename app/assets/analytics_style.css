@@ -1,0 +1,10 @@
+.analytics-div {
+    background-image: url("wing.jpg");
+    background-size: cover; 
+    height: 100vh;
+}
+
+.analytics-inner-div {
+    margin-top:5%;
+    position: absolute;
+   }

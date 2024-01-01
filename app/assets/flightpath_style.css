@@ -1,0 +1,11 @@
+
+.flight-path-div {
+    background-image: url("fly_alone.jpg");
+    background-size: cover; 
+    height: 100vh;
+}
+
+.flight-path-inner-div {
+ margin-top:5%;
+ position: absolute;
+}
