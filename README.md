@@ -1,5 +1,7 @@
 # OpenSky Report Dash App
 
+![Alt text](in_flight_emergency_splash.png?raw=true "Title")
+
 ## Development Guide
 
 Activate virtual environment, i.e. virtualenv:
